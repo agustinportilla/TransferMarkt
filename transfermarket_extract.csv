@@ -1,0 +1,651 @@
+,National_Team,Numero,Nombre,Posicion,Edad,Club,Valor (EUR),Valor (GBP),Valor (USD),Valor (AR$)
+0,Inglaterra,23,Aaron Ramsdale,Portero,24,Arsenal FC,38000000,33268886.0,40530306.0,8241101116.0
+1,Inglaterra,1,Jordan Pickford,Portero,29,Everton FC,25000000,21887425.0,26664675.0,5421777050.0
+2,Inglaterra,13,Nick Pope,Portero,30,Newcastle United,18000000,15758946.0,19198566.0,3903679476.0
+3,Inglaterra,-,Marc Guéhi,Defensa central,22,Crystal Palace,35000000,30642395.0,37330545.0,7590487870.0
+4,Inglaterra,5,John Stones,Defensa central,28,Manchester City,30000000,26264910.0,31997610.0,6506132460.0
+5,Inglaterra,6,Harry Maguire,Defensa central,30,Manchester United,25000000,21887425.0,26664675.0,5421777050.0
+6,Inglaterra,15,Eric Dier,Defensa central,29,Tottenham Hotspur,25000000,21887425.0,26664675.0,5421777050.0
+7,Inglaterra,-,Ben Chilwell,Lateral izquierdo,26,Chelsea FC,35000000,30642395.0,37330545.0,7590487870.0
+8,Inglaterra,3,Luke Shaw,Lateral izquierdo,27,Manchester United,35000000,30642395.0,37330545.0,7590487870.0
+9,Inglaterra,-,Reece James,Lateral derecho,23,Chelsea FC,70000000,61284790.0,74661090.0,15180975740.0
+10,Inglaterra,2,Kyle Walker,Lateral derecho,32,Manchester City,15000000,13132455.0,15998805.0,3253066230.0
+11,Inglaterra,12,Kieran Trippier,Lateral derecho,32,Newcastle United,13000000,11381461.0,13865631.0,2819324066.0
+12,Inglaterra,4,Declan Rice,Pivote,24,West Ham United,80000000,70039760.0,85326960.0,17349686560.0
+13,Inglaterra,14,Kalvin Phillips,Pivote,27,Manchester City,35000000,30642395.0,37330545.0,7590487870.0
+14,Inglaterra,22,Jude Bellingham,Mediocentro,19,Borussia Dortmund,110000000,96304670.0,117324570.0,23855819020.0
+15,Inglaterra,26,Conor Gallagher,Mediocentro,23,Chelsea FC,32000000,28015904.0,34130784.0,6939874624.0
+16,Inglaterra,8,Jordan Henderson,Mediocentro,32,Liverpool FC,10000000,8754970.0,10665870.0,2168710820.0
+17,Inglaterra,19,Mason Mount,Mediocentro ofensivo,24,Chelsea FC,65000000,56907305.0,69328155.0,14096620330.0
+18,Inglaterra,25,James Maddison,Mediocentro ofensivo,26,Leicester City,55000000,48152335.0,58662285.0,11927909510.0
+19,Inglaterra,20,Phil Foden,Extremo izquierdo,22,Manchester City,110000000,96304670.0,117324570.0,23855819020.0
+20,Inglaterra,11,Marcus Rashford,Extremo izquierdo,25,Manchester United,80000000,70039760.0,85326960.0,17349686560.0
+21,Inglaterra,7,Jack Grealish,Extremo izquierdo,27,Manchester City,70000000,61284790.0,74661090.0,15180975740.0
+22,Inglaterra,17,Bukayo Saka,Extremo derecho,21,Arsenal FC,110000000,96304670.0,117324570.0,23855819020.0
+23,Inglaterra,9,Harry Kane,Delantero centro,29,Tottenham Hotspur,90000000,78794730.0,95992830.0,19518397380.0
+24,Inglaterra,-,Ivan Toney,Delantero centro,27,Brentford FC,50000000,43774850.0,53329350.0,10843554100.0
+25,Francia,-,Mike Maignan,Portero,27,AC Milan,35000000,30642395.0,37330545.0,7590487870.0
+26,Francia,-,Brice Samba,Portero,28,RC Lens,8000000,7003976.0,8532696.0,1734968656.0
+27,Francia,23,Alphonse Areola,Portero,30,West Ham United,8000000,7003976.0,8532696.0,1734968656.0
+28,Francia,-,Wesley Fofana,Defensa central,22,Chelsea FC,65000000,56907305.0,69328155.0,14096620330.0
+29,Francia,5,Jules Kounde,Defensa central,24,FC Barcelona,60000000,52529820.0,63995220.0,13012264920.0
+30,Francia,18,Dayot Upamecano,Defensa central,24,Bayern Múnich,60000000,52529820.0,63995220.0,13012264920.0
+31,Francia,17,William Saliba,Defensa central,21,Arsenal FC,55000000,48152335.0,58662285.0,11927909510.0
+32,Francia,24,Ibrahima Konaté,Defensa central,23,Liverpool FC,35000000,30642395.0,37330545.0,7590487870.0
+33,Francia,22,Theo Hernández,Lateral izquierdo,25,AC Milan,60000000,52529820.0,63995220.0,13012264920.0
+34,Francia,2,Benjamin Pavard,Lateral derecho,26,Bayern Múnich,35000000,30642395.0,37330545.0,7590487870.0
+35,Francia,8,Aurélien Tchouameni,Pivote,23,Real Madrid CF,90000000,78794730.0,95992830.0,19518397380.0
+36,Francia,-,Khéphren Thuram,Pivote,21,OGC Niza,25000000,21887425.0,26664675.0,5421777050.0
+37,Francia,15,Jordan Veretout,Pivote,30,Olympique de Marsella,14000000,12256958.0,14932218.0,3036195148.0
+38,Francia,25,Eduardo Camavinga,Mediocentro,20,Real Madrid CF,50000000,43774850.0,53329350.0,10843554100.0
+39,Francia,13,Youssouf Fofana,Mediocentro,24,AS Mónaco,25000000,21887425.0,26664675.0,5421777050.0
+40,Francia,14,Adrien Rabiot,Mediocentro,27,Juventus de Turín,25000000,21887425.0,26664675.0,5421777050.0
+41,Francia,20,Kingsley Coman,Extremo izquierdo,26,Bayern Múnich,60000000,52529820.0,63995220.0,13012264920.0
+42,Francia,-,Moussa Diaby,Extremo izquierdo,23,Bayer 04 Leverkusen,50000000,43774850.0,53329350.0,10843554100.0
+43,Francia,7,Antoine Griezmann,Mediapunta,31,Atlético de Madrid,25000000,21887425.0,26664675.0,5421777050.0
+44,Francia,10,Kylian Mbappé,Delantero centro,24,París Saint-Germain FC,180000000,157589460.0,191985660.0,39036794760.0
+45,Francia,12,Randal Kolo Muani,Delantero centro,24,Eintracht Fráncfort​​,37000000,32393389.0,39463719.0,8024230034.0
+46,Francia,26,Marcus Thuram,Delantero centro,25,Borussia Mönchengladbach,32000000,28015904.0,34130784.0,6939874624.0
+47,Francia,9,Olivier Giroud,Delantero centro,36,AC Milan,4000000,3501988.0,4266348.0,867484328.0
+48,Portugal,22,Diogo Costa,Portero,23,FC Oporto,45000000,39397365.0,47996415.0,9759198690.0
+49,Portugal,12,José Sá,Portero,30,Wolverhampton Wanderers,18000000,15758946.0,19198566.0,3903679476.0
+50,Portugal,1,Rui Patrício,Portero,35,AS Roma,5000000,4377485.0,5332935.0,1084355410.0
+51,Portugal,4,Rúben Dias,Defensa central,25,Manchester City,75000000,65662275.0,79994025.0,16265331150.0
+52,Portugal,24,António Silva,Defensa central,19,SL Benfica,25000000,21887425.0,26664675.0,5421777050.0
+53,Portugal,3,Pepe,Defensa central,40,FC Oporto,1000000,875497.0,1066587.0,216871082.0
+54,Portugal,5,Raphaël Guerreiro,Lateral izquierdo,29,Borussia Dortmund,20000000,17509940.0,21331740.0,4337421640.0
+55,Portugal,20,João Cancelo,Lateral derecho,28,Bayern Múnich,70000000,61284790.0,74661090.0,15180975740.0
+56,Portugal,2,Diogo Dalot,Lateral derecho,23,Manchester United,35000000,30642395.0,37330545.0,7590487870.0
+57,Portugal,18,Rúben Neves,Pivote,26,Wolverhampton Wanderers,40000000,35019880.0,42663480.0,8674843280.0
+58,Portugal,6,João Palhinha,Pivote,27,Fulham FC,35000000,30642395.0,37330545.0,7590487870.0
+59,Portugal,14,William Carvalho,Pivote,30,Real Betis Balompié,16000000,14007952.0,17065392.0,3469937312.0
+60,Portugal,16,Vitinha,Mediocentro,23,París Saint-Germain FC,45000000,39397365.0,47996415.0,9759198690.0
+61,Portugal,23,Matheus Nunes,Mediocentro,24,Wolverhampton Wanderers,45000000,39397365.0,47996415.0,9759198690.0
+62,Portugal,17,João Mário,Mediocentro,30,SL Benfica,14000000,12256958.0,14932218.0,3036195148.0
+63,Portugal,25,Otávio,Interior derecho,28,FC Oporto,30000000,26264910.0,31997610.0,6506132460.0
+64,Portugal,10,Bernardo Silva,Mediocentro ofensivo,28,Manchester City,80000000,70039760.0,85326960.0,17349686560.0
+65,Portugal,8,Bruno Fernandes,Mediocentro ofensivo,28,Manchester United,75000000,65662275.0,79994025.0,16265331150.0
+66,Portugal,15,Rafael Leão,Extremo izquierdo,23,AC Milan,85000000,74417245.0,90659895.0,18434041970.0
+67,Portugal,21,Ricardo Horta,Extremo izquierdo,28,SC Braga,20000000,17509940.0,21331740.0,4337421640.0
+68,Portugal,11,João Félix,Mediapunta,23,Chelsea FC,50000000,43774850.0,53329350.0,10843554100.0
+69,Portugal,26,Gonçalo Ramos,Delantero centro,21,SL Benfica,40000000,35019880.0,42663480.0,8674843280.0
+70,Portugal,9,André Silva,Delantero centro,27,RB Leipzig,24000000,21011928.0,25598088.0,5204905968.0
+71,Portugal,7,Cristiano Ronaldo,Delantero centro,38,Al-Nassr FC,20000000,17509940.0,21331740.0,4337421640.0
+72,España,1,Robert Sánchez,Portero,25,Brighton & Hove Albion,32000000,28015904.0,34130784.0,6939874624.0
+73,España,13,David Raya,Portero,27,Brentford FC,25000000,21887425.0,26664675.0,5421777050.0
+74,España,23,Unai Simón,Portero,25,Athletic Club,25000000,21887425.0,26664675.0,5421777050.0
+75,España,4,Pau Torres,Defensa central,26,Villarreal CF,50000000,43774850.0,53329350.0,10843554100.0
+76,España,24,Aymeric Laporte,Defensa central,28,Manchester City,30000000,26264910.0,31997610.0,6506132460.0
+77,España,3,Eric García,Defensa central,22,FC Barcelona,18000000,15758946.0,19198566.0,3903679476.0
+78,España,14,Alejandro Balde,Lateral izquierdo,19,FC Barcelona,15000000,13132455.0,15998805.0,3253066230.0
+79,España,18,Jordi Alba,Lateral izquierdo,33,FC Barcelona,5000000,4377485.0,5332935.0,1084355410.0
+80,España,20,Daniel Carvajal,Lateral derecho,31,Real Madrid CF,18000000,15758946.0,19198566.0,3903679476.0
+81,España,2,César Azpilicueta,Lateral derecho,33,Chelsea FC,8000000,7003976.0,8532696.0,1734968656.0
+82,España,16,Rodri,Pivote,26,Manchester City,80000000,70039760.0,85326960.0,17349686560.0
+83,España,15,Hugo Guillamón,Pivote,23,Valencia CF,25000000,21887425.0,26664675.0,5421777050.0
+84,España,26,Pedri,Mediocentro,20,FC Barcelona,100000000,87549700.0,106658700.0,21687108200.0
+85,España,9,Gavi,Mediocentro,18,FC Barcelona,90000000,78794730.0,95992830.0,19518397380.0
+86,España,6,Marcos Llorente,Mediocentro,28,Atlético de Madrid,35000000,30642395.0,37330545.0,7590487870.0
+87,España,19,Carlos Soler,Mediocentro,26,París Saint-Germain FC,35000000,30642395.0,37330545.0,7590487870.0
+88,España,8,Koke,Mediocentro,31,Atlético de Madrid,18000000,15758946.0,19198566.0,3903679476.0
+89,España,21,Dani Olmo,Mediocentro ofensivo,24,RB Leipzig,40000000,35019880.0,42663480.0,8674843280.0
+90,España,25,Ansu Fati,Extremo izquierdo,20,FC Barcelona,50000000,43774850.0,53329350.0,10843554100.0
+91,España,11,Ferran Torres,Extremo izquierdo,23,FC Barcelona,35000000,30642395.0,37330545.0,7590487870.0
+92,España,17,Yéremy Pino,Extremo derecho,20,Villarreal CF,38000000,33268886.0,40530306.0,8241101116.0
+93,España,10,Marco Asensio,Extremo derecho,27,Real Madrid CF,25000000,21887425.0,26664675.0,5421777050.0
+94,España,12,Nico Williams,Extremo derecho,20,Athletic Club,25000000,21887425.0,26664675.0,5421777050.0
+95,España,22,Pablo Sarabia,Extremo derecho,30,Wolverhampton Wanderers,16000000,14007952.0,17065392.0,3469937312.0
+96,España,7,Álvaro Morata,Delantero centro,30,Atlético de Madrid,25000000,21887425.0,26664675.0,5421777050.0
+97,Argentina,23,Emiliano Martínez,Portero,30,Aston Villa,28000000,24513916.0,29864436.0,6072390296.0
+98,Argentina,12,Gerónimo Rulli,Portero,30,Ajax de Ámsterdam,10000000,8754970.0,10665870.0,2168710820.0
+99,Argentina,1,Franco Armani,Portero,36,CA River Plate,3200000,2801590.4,3413078.4,693987462.4
+100,Argentina,13,Cristian Romero,Defensa central,24,Tottenham Hotspur,60000000,52529820.0,63995220.0,13012264920.0
+101,Argentina,25,Lisandro Martínez,Defensa central,25,Manchester United,50000000,43774850.0,53329350.0,10843554100.0
+102,Argentina,13,Nehuén Pérez,Defensa central,22,Udinese,8000000,7003976.0,8532696.0,1734968656.0
+103,Argentina,6,Germán Pezzella,Defensa central,31,Real Betis Balompié,5000000,4377485.0,5332935.0,1084355410.0
+104,Argentina,19,Nicolás Otamendi,Defensa central,35,SL Benfica,3000000,2626491.0,3199761.0,650613246.0
+105,Argentina,8,Marcos Acuña,Lateral izquierdo,31,Sevilla FC,14000000,12256958.0,14932218.0,3036195148.0
+106,Argentina,3,Nicolás Tagliafico,Lateral izquierdo,30,Olympique de Lyon,9000000,7879473.0,9599283.0,1951839738.0
+107,Argentina,-,Lautaro Blanco,Lateral izquierdo,24,Elche CF,4500000,3939736.5,4799641.5,975919869.0
+108,Argentina,2,Juan Foyth,Lateral derecho,25,Villarreal CF,25000000,21887425.0,26664675.0,5421777050.0
+109,Argentina,26,Nahuel Molina,Lateral derecho,24,Atlético de Madrid,22000000,19260934.0,23464914.0,4771163804.0
+110,Argentina,4,Gonzalo Montiel,Lateral derecho,26,Sevilla FC,12000000,10505964.0,12799044.0,2602452984.0
+111,Argentina,18,Guido Rodríguez,Pivote,28,Real Betis Balompié,28000000,24513916.0,29864436.0,6072390296.0
+112,Argentina,5,Leandro Paredes,Pivote,28,Juventus de Turín,15000000,13132455.0,15998805.0,3253066230.0
+113,Argentina,-,Máximo Perrone,Pivote,20,Manchester City,10000000,8754970.0,10665870.0,2168710820.0
+114,Argentina,24,Enzo Fernández,Mediocentro,22,Chelsea FC,85000000,74417245.0,90659895.0,18434041970.0
+115,Argentina,20,Alexis Mac Allister,Mediocentro,24,Brighton & Hove Albion,42000000,36770874.0,44796654.0,9108585444.0
+116,Argentina,7,Rodrigo de Paul,Mediocentro,28,Atlético de Madrid,40000000,35019880.0,42663480.0,8674843280.0
+117,Argentina,-,Giovani Lo Celso,Mediocentro,26,Villarreal CF,22000000,19260934.0,23464914.0,4771163804.0
+118,Argentina,14,Exequiel Palacios,Mediocentro,24,Bayer 04 Leverkusen,15000000,13132455.0,15998805.0,3253066230.0
+119,Argentina,16,Thiago Almada,Mediocentro ofensivo,21,Atlanta United FC,15000000,13132455.0,15998805.0,3253066230.0
+120,Argentina,-,Facundo Buonanotte,Mediocentro ofensivo,18,Brighton & Hove Albion,9000000,7879473.0,9599283.0,1951839738.0
+121,Argentina,-,Valentín Carboni,Mediocentro ofensivo,18,Inter de Milán,1500000,1313245.5,1599880.5,325306623.0
+122,Argentina,-,Nicolás González,Extremo izquierdo,24,Fiorentina,23000000,20136431.0,24531501.0,4988034886.0
+123,Argentina,17,Papu Gómez,Extremo izquierdo,35,Sevilla FC,4000000,3501988.0,4266348.0,867484328.0
+124,Argentina,10,Lionel Messi,Extremo derecho,35,París Saint-Germain FC,50000000,43774850.0,53329350.0,10843554100.0
+125,Argentina,15,Ángel Correa,Extremo derecho,28,Atlético de Madrid,40000000,35019880.0,42663480.0,8674843280.0
+126,Argentina,-,Emiliano Buendía,Extremo derecho,26,Aston Villa,28000000,24513916.0,29864436.0,6072390296.0
+127,Argentina,11,Ángel Di María,Extremo derecho,35,Juventus de Turín,10000000,8754970.0,10665870.0,2168710820.0
+128,Argentina,21,Paulo Dybala,Mediapunta,29,AS Roma,30000000,26264910.0,31997610.0,6506132460.0
+129,Argentina,22,Lautaro Martínez,Delantero centro,25,Inter de Milán,75000000,65662275.0,79994025.0,16265331150.0
+130,Argentina,9,Julián Álvarez,Delantero centro,23,Manchester City,50000000,43774850.0,53329350.0,10843554100.0
+131,Brasil,23,Ederson,Portero,29,Manchester City,45000000,39397365.0,47996415.0,9759198690.0
+132,Brasil,12,Weverton,Portero,35,SE Palmeiras,3500000,3064239.5,3733054.5,759048787.0
+133,Brasil,-,Mycael,Portero,19,Club Athletico Paranaense,700000,612847.9,746610.9,151809757.4
+134,Brasil,4,Marquinhos,Defensa central,28,París Saint-Germain FC,70000000,61284790.0,74661090.0,15180975740.0
+135,Brasil,14,Éder Militão,Defensa central,25,Real Madrid CF,60000000,52529820.0,63995220.0,13012264920.0
+136,Brasil,13,Roger Ibañez,Defensa central,24,AS Roma,27000000,23638419.0,28797849.0,5855519214.0
+137,Brasil,-,Robert Renan,Defensa central,19,Zenit de San Petersburgo,3000000,2626491.0,3199761.0,650613246.0
+138,Brasil,16,Renan Lodi,Lateral izquierdo,24,Nottingham Forest,20000000,17509940.0,21331740.0,4337421640.0
+139,Brasil,16,Alex Telles,Lateral izquierdo,30,Sevilla FC,14000000,12256958.0,14932218.0,3036195148.0
+140,Brasil,2,Emerson Royal,Lateral derecho,24,Tottenham Hotspur,25000000,21887425.0,26664675.0,5421777050.0
+141,Brasil,-,Arthur,Lateral derecho,20,América Futebol Clube (MG),200000,175099.4,213317.4,43374216.4
+142,Brasil,5,Casemiro,Pivote,31,Manchester United,50000000,43774850.0,53329350.0,10843554100.0
+143,Brasil,-,André,Pivote,21,Fluminense Football Club,10000000,8754970.0,10665870.0,2168710820.0
+144,Brasil,-,João Gomes,Mediocentro,22,Wolverhampton Wanderers,15000000,13132455.0,15998805.0,3253066230.0
+145,Brasil,-,Andrey Santos,Mediocentro,18,Clube de Regatas Vasco da Gama,12000000,10505964.0,12799044.0,2602452984.0
+146,Brasil,7,Lucas Paquetá,Mediocentro ofensivo,25,West Ham United,45000000,39397365.0,47996415.0,9759198690.0
+147,Brasil,-,Raphael Veiga,Mediocentro ofensivo,27,SE Palmeiras,12000000,10505964.0,12799044.0,2602452984.0
+148,Brasil,20,Vinicius Junior,Extremo izquierdo,22,Real Madrid CF,120000000,105059640.0,127990440.0,26024529840.0
+149,Brasil,21,Rodrygo,Extremo derecho,22,Real Madrid CF,80000000,70039760.0,85326960.0,17349686560.0
+150,Brasil,19,Antony,Extremo derecho,23,Manchester United,70000000,61284790.0,74661090.0,15180975740.0
+151,Brasil,9,Richarlison,Delantero centro,25,Tottenham Hotspur,55000000,48152335.0,58662285.0,11927909510.0
+152,Brasil,-,Vitor Roque,Delantero centro,18,Club Athletico Paranaense,14000000,12256958.0,14932218.0,3036195148.0
+153,Brasil,-,Rony,Delantero centro,27,SE Palmeiras,10000000,8754970.0,10665870.0,2168710820.0
+154,Alemania,22,Marc-André ter Stegen,Portero,30,FC Barcelona,30000000,26264910.0,31997610.0,6506132460.0
+155,Alemania,-,Bernd Leno,Portero,31,Fulham FC,10000000,8754970.0,10665870.0,2168710820.0
+156,Alemania,12,Kevin Trapp,Portero,32,Eintracht Fráncfort​​,8500000,7441724.5,9065989.5,1843404197.0
+157,Alemania,23,Nico Schlotterbeck,Defensa central,23,Borussia Dortmund,33000000,28891401.0,35197371.0,7156745706.0
+158,Alemania,4,Matthias Ginter,Defensa central,29,SC Friburgo,20000000,17509940.0,21331740.0,4337421640.0
+159,Alemania,25,Armel Bella-Kotchap,Defensa central,21,Southampton FC,20000000,17509940.0,21331740.0,4337421640.0
+160,Alemania,5,Thilo Kehrer,Defensa central,26,West Ham United,18000000,15758946.0,19198566.0,3903679476.0
+161,Alemania,3,David Raum,Lateral izquierdo,24,RB Leipzig,26000000,22762922.0,27731262.0,5638648132.0
+162,Alemania,20,Christian Günter,Lateral izquierdo,30,SC Friburgo,10000000,8754970.0,10665870.0,2168710820.0
+163,Alemania,-,Marius Wolf,Lateral derecho,27,Borussia Dortmund,6500000,5690730.5,6932815.5,1409662033.0
+164,Alemania,-,Josha Vagnoman,Lateral derecho,22,VfB Stuttgart,3700000,3239338.9,3946371.9,802423003.4
+165,Alemania,6,Joshua Kimmich,Pivote,28,Bayern Múnich,80000000,70039760.0,85326960.0,17349686560.0
+166,Alemania,-,Emre Can,Pivote,29,Borussia Dortmund,14000000,12256958.0,14932218.0,3036195148.0
+167,Alemania,8,Leon Goretzka,Mediocentro,28,Bayern Múnich,65000000,56907305.0,69328155.0,14096620330.0
+168,Alemania,14,Jamal Musiala,Mediocentro ofensivo,20,Bayern Múnich,100000000,87549700.0,106658700.0,21687108200.0
+169,Alemania,-,Florian Wirtz,Mediocentro ofensivo,19,Bayer 04 Leverkusen,70000000,61284790.0,74661090.0,15180975740.0
+170,Alemania,7,Kai Havertz,Mediocentro ofensivo,23,Chelsea FC,60000000,52529820.0,63995220.0,13012264920.0
+171,Alemania,11,Mario Götze,Mediocentro ofensivo,30,Eintracht Fráncfort​​,13000000,11381461.0,13865631.0,2819324066.0
+172,Alemania,-,Felix Nmecha,Mediocentro ofensivo,22,VfL Wolfsburgo,3000000,2626491.0,3199761.0,650613246.0
+173,Alemania,10,Serge Gnabry,Extremo derecho,27,Bayern Múnich,65000000,56907305.0,69328155.0,14096620330.0
+174,Alemania,-,Kevin Schade,Extremo derecho,21,Brentford FC,20000000,17509940.0,21331740.0,4337421640.0
+175,Alemania,-,Timo Werner,Delantero centro,27,RB Leipzig,25000000,21887425.0,26664675.0,5421777050.0
+176,Alemania,9,Niclas Füllkrug,Delantero centro,30,SV Werder Bremen,10000000,8754970.0,10665870.0,2168710820.0
+177,Alemania,-,Mergim Berisha,Delantero centro,24,FC Augsburgo,6000000,5252982.0,6399522.0,1301226492.0
+178,Países Bajos,-,Mark Flekken,Portero,29,SC Friburgo,7000000,6128479.0,7466109.0,1518097574.0
+179,Países Bajos,-,Jasper Cillessen,Portero,33,NEC Nijmegen,3000000,2626491.0,3199761.0,650613246.0
+180,Países Bajos,-,Bart Verbruggen,Portero,20,RSC Anderlecht,750000,656622.75,799940.25,162653311.5
+181,Países Bajos,3,Matthijs de Ligt,Defensa central,23,Bayern Múnich,70000000,61284790.0,74661090.0,15180975740.0
+182,Países Bajos,-,Sven Botman,Defensa central,23,Newcastle United,45000000,39397365.0,47996415.0,9759198690.0
+183,Países Bajos,4,Virgil van Dijk,Defensa central,31,Liverpool FC,45000000,39397365.0,47996415.0,9759198690.0
+184,Países Bajos,2,Jurrien Timber,Defensa central,21,Ajax de Ámsterdam,42000000,36770874.0,44796654.0,9108585444.0
+185,Países Bajos,5,Nathan Aké,Defensa central,28,Manchester City,35000000,30642395.0,37330545.0,7590487870.0
+186,Países Bajos,16,Tyrell Malacia,Lateral izquierdo,23,Manchester United,22000000,19260934.0,23464914.0,4771163804.0
+187,Países Bajos,17,Daley Blind,Lateral izquierdo,33,Bayern Múnich,6000000,5252982.0,6399522.0,1301226492.0
+188,Países Bajos,-,Lutsharel Geertruida,Lateral derecho,22,Feyenoord Rotterdam,18000000,15758946.0,19198566.0,3903679476.0
+189,Países Bajos,15,Marten de Roon,Pivote,31,Atalanta de Bérgamo,12000000,10505964.0,12799044.0,2602452984.0
+190,Países Bajos,-,Mats Wieffer,Pivote,23,Feyenoord Rotterdam,7000000,6128479.0,7466109.0,1518097574.0
+191,Países Bajos,21,Frenkie de Jong,Mediocentro,25,FC Barcelona,50000000,43774850.0,53329350.0,10843554100.0
+192,Países Bajos,24,Kenneth Taylor,Mediocentro,20,Ajax de Ámsterdam,14000000,12256958.0,14932218.0,3036195148.0
+193,Países Bajos,-,Georginio Wijnaldum,Mediocentro,32,AS Roma,12000000,10505964.0,12799044.0,2602452984.0
+194,Países Bajos,22,Denzel Dumfries,Interior derecho,26,Inter de Milán,28000000,24513916.0,29864436.0,6072390296.0
+195,Países Bajos,25,Xavi Simons,Mediocentro ofensivo,19,PSV Eindhoven,30000000,26264910.0,31997610.0,6506132460.0
+196,Países Bajos,11,Steven Berghuis,Mediocentro ofensivo,31,Ajax de Ámsterdam,14000000,12256958.0,14932218.0,3036195148.0
+197,Países Bajos,14,Davy Klaassen,Mediocentro ofensivo,30,Ajax de Ámsterdam,12000000,10505964.0,12799044.0,2602452984.0
+198,Países Bajos,8,Cody Gakpo,Extremo izquierdo,23,Liverpool FC,60000000,52529820.0,63995220.0,13012264920.0
+199,Países Bajos,7,Steven Bergwijn,Extremo izquierdo,25,Ajax de Ámsterdam,24000000,21011928.0,25598088.0,5204905968.0
+200,Países Bajos,10,Memphis Depay,Delantero centro,29,Atlético de Madrid,20000000,17509940.0,21331740.0,4337421640.0
+201,Países Bajos,19,Wout Weghorst,Delantero centro,30,Manchester United,14000000,12256958.0,14932218.0,3036195148.0
+202,Países Bajos,-,Brian Brobbey,Delantero centro,21,Ajax de Ámsterdam,13000000,11381461.0,13865631.0,2819324066.0
+203,Italia,1,Gianluigi Donnarumma,Portero,24,París Saint-Germain FC,50000000,43774850.0,53329350.0,10843554100.0
+204,Italia,21,Alex Meret,Portero,25,SSC Nápoles,13000000,11381461.0,13865631.0,2819324066.0
+205,Italia,26,Guglielmo Vicario,Portero,26,FC Empoli,12000000,10505964.0,12799044.0,2602452984.0
+206,Italia,-,Ivan Provedel,Portero,29,SS Lazio,7000000,6128479.0,7466109.0,1518097574.0
+207,Italia,-,Alessandro Bastoni,Defensa central,23,Inter de Milán,55000000,48152335.0,58662285.0,11927909510.0
+208,Italia,5,Giorgio Scalvini,Defensa central,19,Atalanta de Bérgamo,20000000,17509940.0,21331740.0,4337421640.0
+209,Italia,13,Federico Gatti,Defensa central,24,Juventus de Turín,5000000,4377485.0,5332935.0,1084355410.0
+210,Italia,15,Francesco Acerbi,Defensa central,35,Inter de Milán,4000000,3501988.0,4266348.0,867484328.0
+211,Italia,19,Leonardo Bonucci,Defensa central,35,Juventus de Turín,4000000,3501988.0,4266348.0,867484328.0
+212,Italia,3,Federico Dimarco,Lateral izquierdo,25,Inter de Milán,25000000,21887425.0,26664675.0,5421777050.0
+213,Italia,-,Fabiano Parisi,Lateral izquierdo,22,FC Empoli,8000000,7003976.0,8532696.0,1734968656.0
+214,Italia,2,Giovanni Di Lorenzo,Lateral derecho,29,SSC Nápoles,25000000,21887425.0,26664675.0,5421777050.0
+215,Italia,4,Samuele Ricci,Pivote,21,Torino FC,12000000,10505964.0,12799044.0,2602452984.0
+216,Italia,18,Nicolò Barella,Mediocentro,26,Inter de Milán,70000000,61284790.0,74661090.0,15180975740.0
+217,Italia,6,Marco Verratti,Mediocentro,30,París Saint-Germain FC,50000000,43774850.0,53329350.0,10843554100.0
+218,Italia,24,Fabio Miretti,Mediocentro,19,Juventus de Turín,15000000,13132455.0,15998805.0,3253066230.0
+219,Italia,16,Nicolò Fagioli,Mediocentro,22,Juventus de Turín,8000000,7003976.0,8532696.0,1734968656.0
+220,Italia,22,Nicolò Zaniolo,Mediocentro ofensivo,23,Galatasaray,28000000,24513916.0,29864436.0,6072390296.0
+221,Italia,12,Matteo Pessina,Mediocentro ofensivo,25,AC Monza,14000000,12256958.0,14932218.0,3036195148.0
+222,Italia,25,Simone Pafundi,Mediocentro ofensivo,17,Udinese,1500000,1313245.5,1599880.5,325306623.0
+223,Italia,14,Federico Chiesa,Extremo izquierdo,25,Juventus de Turín,60000000,52529820.0,63995220.0,13012264920.0
+224,Italia,11,Wilfried Gnonto,Extremo izquierdo,19,Leeds United,18000000,15758946.0,19198566.0,3903679476.0
+225,Italia,20,Vincenzo Grifo,Extremo izquierdo,29,SC Friburgo,12000000,10505964.0,12799044.0,2602452984.0
+226,Italia,17,Matteo Politano,Extremo derecho,29,SSC Nápoles,20000000,17509940.0,21331740.0,4337421640.0
+227,Italia,10,Giacomo Raspadori,Mediapunta,23,SSC Nápoles,35000000,30642395.0,37330545.0,7590487870.0
+228,Italia,9,Andrea Pinamonti,Delantero centro,23,US Sassuolo,20000000,17509940.0,21331740.0,4337421640.0
+229,Italia,-,Mateo Retegui,Delantero centro,23,Club Atlético Tigre,8000000,7003976.0,8532696.0,1734968656.0
+230,Bélgica,1,Thibaut Courtois,Portero,30,Real Madrid CF,60000000,52529820.0,63995220.0,13012264920.0
+231,Bélgica,-,Matz Sels,Portero,31,Racing Club de Estrasburgo,8000000,7003976.0,8532696.0,1734968656.0
+232,Bélgica,13,Koen Casteels,Portero,30,VfL Wolfsburgo,8000000,7003976.0,8532696.0,1734968656.0
+233,Bélgica,-,Thomas Kaminski,Portero,30,Blackburn Rovers,3000000,2626491.0,3199761.0,650613246.0
+234,Bélgica,3,Arthur Theate,Defensa central,22,Stade Rennais FC,20000000,17509940.0,21331740.0,4337421640.0
+235,Bélgica,4,Wout Faes,Defensa central,24,Leicester City,20000000,17509940.0,21331740.0,4337421640.0
+236,Bélgica,-,Sebastiaan Bornauw,Defensa central,23,VfL Wolfsburgo,8500000,7441724.5,9065989.5,1843404197.0
+237,Bélgica,26,Zeno Debast,Defensa central,19,RSC Anderlecht,8000000,7003976.0,8532696.0,1734968656.0
+238,Bélgica,5,Jan Vertonghen,Defensa central,35,RSC Anderlecht,1800000,1575894.5999999999,1919856.5999999999,390367947.6
+239,Bélgica,21,Timothy Castagne,Lateral derecho,27,Leicester City,28000000,24513916.0,29864436.0,6072390296.0
+240,Bélgica,15,Thomas Meunier,Lateral derecho,31,Borussia Dortmund,6500000,5690730.5,6932815.5,1409662033.0
+241,Bélgica,18,Amadou Onana,Pivote,21,Everton FC,42000000,36770874.0,44796654.0,9108585444.0
+242,Bélgica,-,Roméo Lavia,Pivote,19,Southampton FC,25000000,21887425.0,26664675.0,5421777050.0
+243,Bélgica,-,Orel Mangala,Mediocentro,24,Nottingham Forest,12000000,10505964.0,12799044.0,2602452984.0
+244,Bélgica,-,Dennis Praet,Mediocentro,28,Leicester City,8000000,7003976.0,8532696.0,1734968656.0
+245,Bélgica,7,Kevin De Bruyne,Mediocentro ofensivo,31,Manchester City,80000000,70039760.0,85326960.0,17349686560.0
+246,Bélgica,22,Charles De Ketelaere,Mediocentro ofensivo,22,AC Milan,30000000,26264910.0,31997610.0,6506132460.0
+247,Bélgica,11,Yannick Carrasco,Extremo izquierdo,29,Atlético de Madrid,30000000,26264910.0,31997610.0,6506132460.0
+248,Bélgica,17,Leandro Trossard,Extremo izquierdo,28,Arsenal FC,30000000,26264910.0,31997610.0,6506132460.0
+249,Bélgica,25,Jérémy Doku,Extremo derecho,20,Stade Rennais FC,18000000,15758946.0,19198566.0,3903679476.0
+250,Bélgica,-,Alexis Saelemaekers,Extremo derecho,23,AC Milan,15000000,13132455.0,15998805.0,3253066230.0
+251,Bélgica,-,Dodi Lukébakio,Extremo derecho,25,Hertha Berlín,12000000,10505964.0,12799044.0,2602452984.0
+252,Bélgica,9,Romelu Lukaku,Delantero centro,29,Inter de Milán,55000000,48152335.0,58662285.0,11927909510.0
+253,Bélgica,24,Loïs Openda,Delantero centro,23,RC Lens,12000000,10505964.0,12799044.0,2602452984.0
+254,Uruguay,23,Sergio Rochet,Portero,29,Club Nacional,4000000,3501988.0,4266348.0,867484328.0
+255,Uruguay,-,Santiago Mele,Portero,25,Club Atlético Unión,1200000,1050596.4,1279904.4,260245298.4
+256,Uruguay,23,Gastón Olveira,Portero,29,Club Olimpia Asunción,800000,700397.6,853269.6,173496865.6
+257,Uruguay,-,Guillermo de Amores,Portero,28,Real Sporting de Gijón,600000,525298.2,639952.2,130122649.2
+258,Uruguay,4,Ronald Araújo,Defensa central,24,FC Barcelona,60000000,52529820.0,63995220.0,13012264920.0
+259,Uruguay,-,Santiago Bueno,Defensa central,24,Girona FC,7000000,6128479.0,7466109.0,1518097574.0
+260,Uruguay,19,Sebastián Coates,Defensa central,32,Sporting de Lisboa,6000000,5252982.0,6399522.0,1301226492.0
+261,Uruguay,-,Agustín Rogel,Defensa central,25,Hertha Berlín,4500000,3939736.5,4799641.5,975919869.0
+262,Uruguay,3,Sebastián Cáceres,Defensa central,23,CF América,4000000,3501988.0,4266348.0,867484328.0
+263,Uruguay,-,Federico Pereira,Defensa central,23,Liverpool FC Montevideo,650000,569073.0499999999,693281.5499999999,140966203.3
+264,Uruguay,16,Mathías Olivera,Lateral izquierdo,25,SSC Nápoles,15000000,13132455.0,15998805.0,3253066230.0
+265,Uruguay,17,Matías Viña,Lateral izquierdo,25,AFC Bournemouth,6000000,5252982.0,6399522.0,1301226492.0
+266,Uruguay,17,Joaquín Piquerez,Lateral izquierdo,24,SE Palmeiras,5000000,4377485.0,5332935.0,1084355410.0
+267,Uruguay,13,Guillermo Varela,Lateral derecho,29,CR Flamengo,2000000,1750994.0,2133174.0,433742164.0
+268,Uruguay,13,Giovanni González,Lateral derecho,28,RCD Mallorca,2000000,1750994.0,2133174.0,433742164.0
+269,Uruguay,26,José Luis Rodríguez,Lateral derecho,26,Clube de Regatas Vasco da Gama,2000000,1750994.0,2133174.0,433742164.0
+270,Uruguay,25,Manuel Ugarte,Pivote,21,Sporting de Lisboa,25000000,21887425.0,26664675.0,5421777050.0
+271,Uruguay,14,Lucas Torreira,Pivote,27,Galatasaray,15000000,13132455.0,15998805.0,3253066230.0
+272,Uruguay,15,Federico Valverde,Mediocentro,24,Real Madrid CF,100000000,87549700.0,106658700.0,21687108200.0
+273,Uruguay,7,Nicolás de la Cruz,Mediocentro,25,CA River Plate,13000000,11381461.0,13865631.0,2819324066.0
+274,Uruguay,5,Matías Vecino,Mediocentro,31,SS Lazio,4500000,3939736.5,4799641.5,975919869.0
+275,Uruguay,-,Felipe Carballo,Mediocentro,26,Grêmio Foot-Ball Porto Alegrense,2000000,1750994.0,2133174.0,433742164.0
+276,Uruguay,10,Giorgian de Arrascaeta,Mediocentro ofensivo,28,CR Flamengo,19000000,16634443.0,20265153.0,4120550558.0
+277,Uruguay,-,Diego Rossi,Extremo izquierdo,25,Fenerbahce,12000000,10505964.0,12799044.0,2602452984.0
+278,Uruguay,16,Brian Rodríguez,Extremo izquierdo,22,CF América,5000000,4377485.0,5332935.0,1084355410.0
+279,Uruguay,-,Brian Ocampo,Extremo izquierdo,23,Cádiz CF,2000000,1750994.0,2133174.0,433742164.0
+280,Uruguay,20,Facundo Torres,Extremo derecho,22,Orlando City SC,8000000,7003976.0,8532696.0,1734968656.0
+281,Uruguay,24,Agustín Canobbio,Extremo derecho,24,Club Athletico Paranaense,4000000,3501988.0,4266348.0,867484328.0
+282,Uruguay,8,Facundo Pellistri,Extremo derecho,21,Manchester United,3000000,2626491.0,3199761.0,650613246.0
+283,Uruguay,11,Darwin Núñez,Delantero centro,23,Liverpool FC,70000000,61284790.0,74661090.0,15180975740.0
+284,Uruguay,18,Maxi Gómez,Delantero centro,26,Trabzonspor,8000000,7003976.0,8532696.0,1734968656.0
+285,Uruguay,20,Jonathan Rodríguez,Delantero centro,29,CF América,6000000,5252982.0,6399522.0,1301226492.0
+286,Uruguay,-,Matías Arezo,Delantero centro,20,CA Peñarol,4000000,3501988.0,4266348.0,867484328.0
+287,Uruguay,-,Thiago Borbas,Delantero centro,20,Red Bull Bragantino,4000000,3501988.0,4266348.0,867484328.0
+288,Noruega,-,Jacob Karlström,Portero,26,Molde FK,800000,700397.6,853269.6,173496865.6
+289,Noruega,-,Egil Selvik,Portero,25,FK Haugesund,700000,612847.9,746610.9,151809757.4
+290,Noruega,-,Örjan Nyland,Portero,32,RB Leipzig,600000,525298.2,639952.2,130122649.2
+291,Noruega,-,Kristoffer Ajer,Defensa central,24,Brentford FC,16000000,14007952.0,17065392.0,3469937312.0
+292,Noruega,-,Leo Östigard,Defensa central,23,SSC Nápoles,7000000,6128479.0,7466109.0,1518097574.0
+293,Noruega,-,Andreas Hanche-Olsen,Defensa central,26,1.FSV Mainz 05,3500000,3064239.5,3733054.5,759048787.0
+294,Noruega,-,Stian Gregersen,Defensa central,27,FC Girondins de Burdeos,1800000,1575894.5999999999,1919856.5999999999,390367947.6
+295,Noruega,-,Stefan Strandberg,Defensa central,32,Vålerenga Fotball,500000,437748.5,533293.5,108435541.0
+296,Noruega,-,Birger Meling,Lateral izquierdo,28,Stade Rennais FC,6000000,5252982.0,6399522.0,1301226492.0
+297,Noruega,-,Fredrik Björkan,Lateral izquierdo,24,FK Bodø/Glimt,1500000,1313245.5,1599880.5,325306623.0
+298,Noruega,-,Julian Ryerson,Lateral derecho,25,Borussia Dortmund,7500000,6566227.5,7999402.5,1626533115.0
+299,Noruega,-,Marcus Pedersen,Lateral derecho,22,Feyenoord Rotterdam,6500000,5690730.5,6932815.5,1409662033.0
+300,Noruega,-,Fredrik Aursnes,Pivote,27,SL Benfica,16000000,14007952.0,17065392.0,3469937312.0
+301,Noruega,-,Sander Berge,Pivote,25,Sheffield United,16000000,14007952.0,17065392.0,3469937312.0
+302,Noruega,-,Patrick Berg,Pivote,25,FK Bodø/Glimt,4000000,3501988.0,4266348.0,867484328.0
+303,Noruega,-,Morten Thorsby,Mediocentro,26,1.FC Unión Berlín,7000000,6128479.0,7466109.0,1518097574.0
+304,Noruega,-,Hugo Vetlesen,Mediocentro,23,FK Bodø/Glimt,4500000,3939736.5,4799641.5,975919869.0
+305,Noruega,-,Martin Ødegaard,Mediocentro ofensivo,24,Arsenal FC,80000000,70039760.0,85326960.0,17349686560.0
+306,Noruega,-,Kristian Thorstvedt,Mediocentro ofensivo,24,US Sassuolo,8500000,7441724.5,9065989.5,1843404197.0
+307,Noruega,-,Mats Möller Daehli,Mediocentro ofensivo,28,1.FC Nürnberg,1700000,1488344.9,1813197.9,368680839.4
+308,Noruega,-,Mohamed Elyounoussi,Extremo izquierdo,28,Southampton FC,12000000,10505964.0,12799044.0,2602452984.0
+309,Noruega,-,Ola Solbakken,Extremo derecho,24,AS Roma,3500000,3064239.5,3733054.5,759048787.0
+310,Noruega,-,Erling Haaland,Delantero centro,22,Manchester City,170000000,148834490.0,181319790.0,36868083940.0
+311,Noruega,-,Jörgen Strand Larsen,Delantero centro,23,RC Celta de Vigo,11000000,9630467.0,11732457.0,2385581902.0
+312,Noruega,-,Alexander Sörloth,Delantero centro,27,Real Sociedad,10000000,8754970.0,10665870.0,2168710820.0
+313,Noruega,-,Ola Brynhildsen,Delantero centro,23,Molde FK,3000000,2626491.0,3199761.0,650613246.0
+314,Serbia,12,Predrag Rajković,Portero,27,RCD Mallorca,10000000,8754970.0,10665870.0,2168710820.0
+315,Serbia,-,Vladan Kovacevic,Portero,24,Rakow Czestochowa,5000000,4377485.0,5332935.0,1084355410.0
+316,Serbia,1,Marko Dmitrović,Portero,31,Sevilla FC,5000000,4377485.0,5332935.0,1084355410.0
+317,Serbia,23,Vanja Milinković-Savić,Portero,26,Torino FC,3500000,3064239.5,3733054.5,759048787.0
+318,Serbia,12,Dragan Rosic,Portero,26,FK Radnicki Niš,500000,437748.5,533293.5,108435541.0
+319,Serbia,2,Strahinja Pavlovic,Defensa central,21,Red Bull Salzburgo,20000000,17509940.0,21331740.0,4337421640.0
+320,Serbia,4,Nikola Milenković,Defensa central,25,Fiorentina,20000000,17509940.0,21331740.0,4337421640.0
+321,Serbia,3,Strahinja Eraković,Defensa central,22,Estrella Roja de Belgrado,7000000,6128479.0,7466109.0,1518097574.0
+322,Serbia,5,Milos Veljkovic,Defensa central,27,SV Werder Bremen,5000000,4377485.0,5332935.0,1084355410.0
+323,Serbia,6,Erhan Masovic,Defensa central,24,VfL Bochum,4000000,3501988.0,4266348.0,867484328.0
+324,Serbia,15,Srdjan Babic,Defensa central,26,UD Almería,3000000,2626491.0,3199761.0,650613246.0
+325,Serbia,6,Nemanja Stojic,Defensa central,25,FK TSC Backa Topola,1200000,1050596.4,1279904.4,260245298.4
+326,Serbia,19,Mihailo Ristić,Lateral izquierdo,27,SL Benfica,3500000,3064239.5,3733054.5,759048787.0
+327,Serbia,26,Marko Grujić,Pivote,26,FC Oporto,9000000,7879473.0,9599283.0,1951839738.0
+328,Serbia,19,Uroš Račić,Pivote,25,SC Braga,6500000,5690730.5,6932815.5,1409662033.0
+329,Serbia,8,Nemanja Gudelj,Pivote,31,Sevilla FC,4000000,3501988.0,4266348.0,867484328.0
+330,Serbia,20,Sergej Milinković-Savić,Mediocentro,28,SS Lazio,60000000,52529820.0,63995220.0,13012264920.0
+331,Serbia,16,Sasa Lukic,Mediocentro,26,Fulham FC,13000000,11381461.0,13865631.0,2819324066.0
+332,Serbia,24,Ivan Ilić,Mediocentro,22,Torino FC,13000000,11381461.0,13865631.0,2819324066.0
+333,Serbia,6,Nemanja Maksimović,Mediocentro,28,Getafe CF,10000000,8754970.0,10665870.0,2168710820.0
+334,Serbia,17,Filip Kostić,Interior izquierdo,30,Juventus de Turín,24000000,21011928.0,25598088.0,5204905968.0
+335,Serbia,-,Darko Lazović,Interior izquierdo,32,Hellas Verona,2500000,2188742.5,2666467.5,542177705.0
+336,Serbia,25,Filip Mladenovic,Interior izquierdo,31,Legia de Varsovia,1500000,1313245.5,1599880.5,325306623.0
+337,Serbia,-,Lazar Samardzic,Mediocentro ofensivo,21,Udinese,4500000,3939736.5,4799641.5,975919869.0
+338,Serbia,21,Filip Djuricic,Mediocentro ofensivo,31,UC Sampdoria,2500000,2188742.5,2666467.5,542177705.0
+339,Serbia,10,Dusan Tadić,Extremo izquierdo,34,Ajax de Ámsterdam,7000000,6128479.0,7466109.0,1518097574.0
+340,Serbia,7,Nemanja Radonjić,Extremo izquierdo,27,Torino FC,4000000,3501988.0,4266348.0,867484328.0
+341,Serbia,15,Stefan Mitrovic,Extremo izquierdo,20,Estrella Roja de Belgrado,2500000,2188742.5,2666467.5,542177705.0
+342,Serbia,10,Veljko Simic,Extremo izquierdo,28,FK Vojvodina Novi Sad,1500000,1313245.5,1599880.5,325306623.0
+343,Serbia,16,Vladimir Lucic,Extremo izquierdo,20,FK Čukarički,600000,525298.2,639952.2,130122649.2
+344,Serbia,14,Andrija Zivkovic,Extremo derecho,26,PAOK de Salónica FC,6000000,5252982.0,6399522.0,1301226492.0
+345,Serbia,18,Dusan Vlahovic,Delantero centro,23,Juventus de Turín,80000000,70039760.0,85326960.0,17349686560.0
+346,Serbia,9,Aleksandar Mitrović,Delantero centro,28,Fulham FC,28000000,24513916.0,29864436.0,6072390296.0
+347,Serbia,11,Luka Jović,Delantero centro,25,Fiorentina,14000000,12256958.0,14932218.0,3036195148.0
+348,Serbia,9,Dejan Joveljic,Delantero centro,23,Los Ángeles Galaxy,4000000,3501988.0,4266348.0,867484328.0
+349,Serbia,-,Nikola Stulic,Delantero centro,21,RSC Charleroi,1500000,1313245.5,1599880.5,325306623.0
+350,Croacia,1,Dominik Livakovic,Portero,28,GNK Dinamo Zagreb,14000000,12256958.0,14932218.0,3036195148.0
+351,Croacia,23,Ivica Ivusic,Portero,28,Pafos FC,5000000,4377485.0,5332935.0,1084355410.0
+352,Croacia,-,Nediljko Labrovic,Portero,23,HNK Rijeka,2000000,1750994.0,2133174.0,433742164.0
+353,Croacia,20,Josko Gvardiol,Defensa central,21,RB Leipzig,75000000,65662275.0,79994025.0,16265331150.0
+354,Croacia,24,Josip Sutalo,Defensa central,23,GNK Dinamo Zagreb,18000000,15758946.0,19198566.0,3903679476.0
+355,Croacia,5,Martin Erlic,Defensa central,25,US Sassuolo,5500000,4815233.5,5866228.5,1192790951.0
+356,Croacia,21,Domagoj Vida,Defensa central,33,AEK Atenas FC,2000000,1750994.0,2133174.0,433742164.0
+357,Croacia,19,Borna Sosa,Lateral izquierdo,25,VfB Stuttgart,20000000,17509940.0,21331740.0,4337421640.0
+358,Croacia,3,Borna Barisic,Lateral izquierdo,30,Rangers FC,6500000,5690730.5,6932815.5,1409662033.0
+359,Croacia,22,Josip Juranovic,Lateral derecho,27,1.FC Unión Berlín,9000000,7879473.0,9599283.0,1951839738.0
+360,Croacia,2,Josip Stanisic,Lateral derecho,22,Bayern Múnich,8000000,7003976.0,8532696.0,1734968656.0
+361,Croacia,11,Marcelo Brozovic,Pivote,30,Inter de Milán,35000000,30642395.0,37330545.0,7590487870.0
+362,Croacia,8,Mateo Kovacic,Mediocentro,28,Chelsea FC,40000000,35019880.0,42663480.0,8674843280.0
+363,Croacia,10,Luka Modric,Mediocentro,37,Real Madrid CF,10000000,8754970.0,10665870.0,2168710820.0
+364,Croacia,4,Ivan Perisic,Interior izquierdo,34,Tottenham Hotspur,10000000,8754970.0,10665870.0,2168710820.0
+365,Croacia,15,Mario Pasalic,Mediocentro ofensivo,28,Atalanta de Bérgamo,25000000,21887425.0,26664675.0,5421777050.0
+366,Croacia,7,Lovro Majer,Mediocentro ofensivo,25,Stade Rennais FC,22000000,19260934.0,23464914.0,4771163804.0
+367,Croacia,13,Nikola Vlasic,Mediocentro ofensivo,25,Torino FC,20000000,17509940.0,21331740.0,4337421640.0
+368,Croacia,-,Luka Ivanusec,Mediocentro ofensivo,24,GNK Dinamo Zagreb,10000000,8754970.0,10665870.0,2168710820.0
+369,Croacia,18,Mislav Orsic,Extremo izquierdo,30,Southampton FC,7000000,6128479.0,7466109.0,1518097574.0
+370,Croacia,9,Andrej Kramaric,Delantero centro,31,TSG 1899 Hoffenheim,9000000,7879473.0,9599283.0,1951839738.0
+371,Croacia,14,Marko Livaja,Delantero centro,29,HNK Hajduk Split,8000000,7003976.0,8532696.0,1734968656.0
+372,Croacia,16,Bruno Petkovic,Delantero centro,28,GNK Dinamo Zagreb,6000000,5252982.0,6399522.0,1301226492.0
+373,Croacia,-,Petar Musa,Delantero centro,25,SL Benfica,5000000,4377485.0,5332935.0,1084355410.0
+374,Turquía,1,Altay Bayindir,Portero,24,Fenerbahce,13000000,11381461.0,13865631.0,2819324066.0
+375,Turquía,23,Ugurcan Cakir,Portero,26,Trabzonspor,13000000,11381461.0,13865631.0,2819324066.0
+376,Turquía,1,Mert Günok,Portero,34,Besiktas JK,1000000,875497.0,1066587.0,216871082.0
+377,Turquía,3,Merih Demiral,Defensa central,25,Atalanta de Bérgamo,25000000,21887425.0,26664675.0,5421777050.0
+378,Turquía,4,Caglar Söyüncü,Defensa central,26,Leicester City,15000000,13132455.0,15998805.0,3253066230.0
+379,Turquía,15,Ozan Kabak,Defensa central,22,TSG 1899 Hoffenheim,10000000,8754970.0,10665870.0,2168710820.0
+380,Turquía,2,Abdülkerim Bardakci,Defensa central,28,Galatasaray,5500000,4815233.5,5866228.5,1192790951.0
+381,Turquía,6,Tayyip Talha Sanuc,Defensa central,23,Besiktas JK,5000000,4377485.0,5332935.0,1084355410.0
+382,Turquía,3,Samet Akaydin,Defensa central,29,Fenerbahce,4200000,3677087.4,4479665.399999999,910858544.4
+383,Turquía,22,Cenk Özkacar,Defensa central,22,Valencia CF,1800000,1575894.5999999999,1919856.5999999999,390367947.6
+384,Turquía,13,Eren Elmali,Lateral izquierdo,22,Trabzonspor,4000000,3501988.0,4266348.0,867484328.0
+385,Turquía,2,Zeki Celik,Lateral derecho,26,AS Roma,15000000,13132455.0,15998805.0,3253066230.0
+386,Turquía,20,Ferdi Kadioglu,Lateral derecho,23,Fenerbahce,15000000,13132455.0,15998805.0,3253066230.0
+387,Turquía,24,Onur Bulut,Lateral derecho,28,Besiktas JK,3500000,3064239.5,3733054.5,759048787.0
+388,Turquía,-,Mehmet Aydin,Lateral derecho,21,FC Schalke 04,1000000,875497.0,1066587.0,216871082.0
+389,Turquía,5,Salih Özcan,Pivote,25,Borussia Dortmund,17000000,14883449.0,18131979.0,3686808394.0
+390,Turquía,10,Hakan Calhanoglu,Mediocentro,29,Inter de Milán,35000000,30642395.0,37330545.0,7590487870.0
+391,Turquía,6,Orkun Kökcü,Mediocentro,22,Feyenoord Rotterdam,30000000,26264910.0,31997610.0,6506132460.0
+392,Turquía,18,Ismail Yüksek,Mediocentro,24,Fenerbahce,4000000,3501988.0,4266348.0,867484328.0
+393,Turquía,25,Arda Güler,Mediocentro ofensivo,18,Fenerbahce,11000000,9630467.0,11732457.0,2385581902.0
+394,Turquía,20,Abdülkadir Ömür,Mediocentro ofensivo,23,Trabzonspor,9000000,7879473.0,9599283.0,1951839738.0
+395,Turquía,7,Kerem Aktürkoglu,Extremo izquierdo,24,Galatasaray,13000000,11381461.0,13865631.0,2819324066.0
+396,Turquía,15,Baris Yilmaz,Extremo izquierdo,22,Galatasaray,3200000,2801590.4,3413078.4,693987462.4
+397,Turquía,17,Cengiz Ünder,Extremo derecho,25,Olympique de Marsella,17000000,14883449.0,18131979.0,3686808394.0
+398,Turquía,8,Irfan Can Kahveci,Extremo derecho,27,Fenerbahce,7500000,6566227.5,7999402.5,1626533115.0
+399,Turquía,16,Enes Ünal,Delantero centro,25,Getafe CF,25000000,21887425.0,26664675.0,5421777050.0
+400,Turquía,9,Cenk Tosun,Delantero centro,31,Besiktas JK,2800000,2451391.6,2986443.6,607239029.6
+401,Turquía,-,Umut Nayir,Delantero centro,29,Ümraniyespor,1000000,875497.0,1066587.0,216871082.0
+402,Nigeria,1,Maduka Okoye,Portero,23,Watford FC,2500000,2188742.5,2666467.5,542177705.0
+403,Nigeria,-,Adebayo Adeleye,Portero,22,Hapoel Jerusalem,500000,437748.5,533293.5,108435541.0
+404,Nigeria,23,Francis Uzoho,Portero,24,Omonia Nicosia,500000,437748.5,533293.5,108435541.0
+405,Nigeria,21,Calvin Bassey,Defensa central,23,Ajax de Ámsterdam,18000000,15758946.0,19198566.0,3903679476.0
+406,Nigeria,2,Kevin Akpoguma,Defensa central,27,TSG 1899 Hoffenheim,5000000,4377485.0,5332935.0,1084355410.0
+407,Nigeria,20,Chidozie Awaziem,Defensa central,26,HNK Hajduk Split,5000000,4377485.0,5332935.0,1084355410.0
+408,Nigeria,5,William Troost-Ekong,Defensa central,29,US Salernitana 1919,3000000,2626491.0,3199761.0,650613246.0
+409,Nigeria,-,Bruno Onyemaechi,Defensa central,23,Boavista Porto FC,1000000,875497.0,1066587.0,216871082.0
+411,Nigeria,2,Bright Osayi-Samuel,Lateral derecho,25,Fenerbahce,7500000,6566227.5,7999402.5,1626533115.0
+412,Nigeria,21,Tyronne Ebuehi,Lateral derecho,27,FC Empoli,1400000,1225695.8,1493221.8,303619514.8
+413,Nigeria,4,Wilfred Ndidi,Pivote,26,Leicester City,32000000,28015904.0,34130784.0,6939874624.0
+414,Nigeria,8,Frank Onyeka,Mediocentro,25,Brentford FC,9000000,7879473.0,9599283.0,1951839738.0
+415,Nigeria,8,Peter Etebo,Mediocentro,27,Aris de Salónica,1500000,1313245.5,1599880.5,325306623.0
+416,Nigeria,18,Alex Iwobi,Mediocentro ofensivo,26,Everton FC,25000000,21887425.0,26664675.0,5421777050.0
+417,Nigeria,10,Joe Aribo,Mediocentro ofensivo,26,Southampton FC,15000000,13132455.0,15998805.0,3253066230.0
+418,Nigeria,15,Moses Simon,Extremo izquierdo,27,FC Nantes,9000000,7879473.0,9599283.0,1951839738.0
+419,Nigeria,17,Samuel Chukwueze,Extremo derecho,23,Villarreal CF,20000000,17509940.0,21331740.0,4337421640.0
+420,Nigeria,12,Ademola Lookman,Mediapunta,25,Atalanta de Bérgamo,20000000,17509940.0,21331740.0,4337421640.0
+421,Nigeria,9,Victor Osimhen,Delantero centro,24,SSC Nápoles,70000000,61284790.0,74661090.0,15180975740.0
+422,Nigeria,19,Paul Onuachu,Delantero centro,28,Southampton FC,17000000,14883449.0,18131979.0,3686808394.0
+423,Nigeria,9,Terem Moffi,Delantero centro,23,OGC Niza,15000000,13132455.0,15998805.0,3253066230.0
+424,Nigeria,15,Emmanuel Dennis,Delantero centro,25,Nottingham Forest,10000000,8754970.0,10665870.0,2168710820.0
+425,Nigeria,20,Cyriel Dessers,Delantero centro,28,US Cremonese,6000000,5252982.0,6399522.0,1301226492.0
+426,Marruecos,1,Bono,Portero,31,Sevilla FC,15000000,13132455.0,15998805.0,3253066230.0
+427,Marruecos,22,Ahmed Reda Tagnaouti,Portero,26,Wydad Casablanca,1800000,1575894.5999999999,1919856.5999999999,390367947.6
+428,Marruecos,12,Munir,Portero,33,Al-Wehda FC,1200000,1050596.4,1279904.4,260245298.4
+429,Marruecos,-,El Mehdi Benabid,Portero,25,FUS Rabat,650000,569073.0499999999,693281.5499999999,140966203.3
+430,Marruecos,5,Nayef Aguerd,Defensa central,26,West Ham United,32000000,28015904.0,34130784.0,6939874624.0
+431,Marruecos,6,Romain Saïss,Defensa central,32,Besiktas JK,6000000,5252982.0,6399522.0,1301226492.0
+432,Marruecos,20,Achraf Dari,Defensa central,23,Stade Brestois 29,2500000,2188742.5,2666467.5,542177705.0
+433,Marruecos,18,Jawad El Yamiq,Defensa central,31,Real Valladolid CF,1200000,1050596.4,1279904.4,260245298.4
+434,Marruecos,-,Abdel Abqar,Defensa central,24,Deportivo Alavés,700000,612847.9,746610.9,151809757.4
+435,Marruecos,-,Chadi Riad,Defensa central,19,FC Barcelona Atlètic,500000,437748.5,533293.5,108435541.0
+436,Marruecos,25,Yahia Attiyat Allah,Lateral izquierdo,28,Wydad Casablanca,2500000,2188742.5,2666467.5,542177705.0
+438,Marruecos,2,Achraf Hakimi,Lateral derecho,24,París Saint-Germain FC,70000000,61284790.0,74661090.0,15180975740.0
+439,Marruecos,3,Noussair Mazraoui,Lateral derecho,25,Bayern Múnich,28000000,24513916.0,29864436.0,6072390296.0
+440,Marruecos,4,Sofyan Amrabat,Pivote,26,Fiorentina,25000000,21887425.0,26664675.0,5421777050.0
+441,Marruecos,8,Azzedine Ounahi,Mediocentro,22,Olympique de Marsella,15000000,13132455.0,15998805.0,3253066230.0
+442,Marruecos,-,Imrân Louza,Mediocentro,23,Watford FC,9000000,7879473.0,9599283.0,1951839738.0
+443,Marruecos,-,Yassine Kechta,Mediocentro,21,AC Le Havre,1000000,875497.0,1066587.0,216871082.0
+444,Marruecos,-,Benjamin Bouchouari,Mediocentro,21,AS Saint-Étienne,1000000,875497.0,1066587.0,216871082.0
+445,Marruecos,23,Bilal El Khannouss,Mediocentro ofensivo,18,KRC Genk,4500000,3939736.5,4799641.5,975919869.0
+446,Marruecos,11,Abdelhamid Sabiri,Mediocentro ofensivo,26,UC Sampdoria,4000000,3501988.0,4266348.0,867484328.0
+447,Marruecos,17,Sofiane Boufal,Extremo izquierdo,29,Al-Rayyan SC,10000000,8754970.0,10665870.0,2168710820.0
+448,Marruecos,16,Abde Ezzalzouli,Extremo izquierdo,21,CA Osasuna,8000000,7003976.0,8532696.0,1734968656.0
+449,Marruecos,10,Anass Zaroury,Extremo izquierdo,22,Burnley FC,4000000,3501988.0,4266348.0,867484328.0
+450,Marruecos,-,Ibrahim Salah,Extremo izquierdo,21,Stade Rennais FC,800000,700397.6,853269.6,173496865.6
+451,Marruecos,7,Hakim Ziyech,Extremo derecho,29,Chelsea FC,18000000,15758946.0,19198566.0,3903679476.0
+452,Marruecos,14,Zakaria Aboukhlal,Extremo derecho,23,Toulouse FC,3500000,3064239.5,3733054.5,759048787.0
+453,Marruecos,19,Youssef En-Nesyri,Delantero centro,25,Sevilla FC,15000000,13132455.0,15998805.0,3253066230.0
+454,Marruecos,21,Walid Cheddira,Delantero centro,25,SSC Bari,6000000,5252982.0,6399522.0,1301226492.0
+455,Marruecos,9,Abderrazak Hamdallah,Delantero centro,32,Al-Ittihad Club (Jedah),3000000,2626491.0,3199761.0,650613246.0
+456,Dinamarca,22,Frederik Rönnow,Portero,30,1.FC Unión Berlín,3500000,3064239.5,3733054.5,759048787.0
+457,Dinamarca,1,Kasper Schmeichel,Portero,36,OGC Niza,2500000,2188742.5,2666467.5,542177705.0
+458,Dinamarca,-,Mads Hermansen,Portero,22,Brøndby IF,2000000,1750994.0,2133174.0,433742164.0
+459,Dinamarca,2,Joachim Andersen,Defensa central,26,Crystal Palace,32000000,28015904.0,34130784.0,6939874624.0
+460,Dinamarca,6,Andreas Christensen,Defensa central,26,FC Barcelona,30000000,26264910.0,31997610.0,6506132460.0
+461,Dinamarca,3,Victor Nelsson,Defensa central,24,Galatasaray,16500000,14445700.5,17598685.5,3578372853.0
+462,Dinamarca,4,Simon Kjaer,Defensa central,33,AC Milan,5000000,4377485.0,5332935.0,1084355410.0
+463,Dinamarca,5,Joakim Maehle,Lateral izquierdo,25,Atalanta de Bérgamo,14000000,12256958.0,14932218.0,3036195148.0
+464,Dinamarca,26,Alexander Bah,Lateral derecho,25,SL Benfica,8000000,7003976.0,8532696.0,1734968656.0
+465,Dinamarca,-,Jens Stryger Larsen,Lateral derecho,32,Trabzonspor,1800000,1575894.5999999999,1919856.5999999999,390367947.6
+466,Dinamarca,-,Elias Jelert,Lateral derecho,19,FC Copenhague,1000000,875497.0,1066587.0,216871082.0
+467,Dinamarca,15,Christian Nörgaard,Pivote,29,Brentford FC,14000000,12256958.0,14932218.0,3036195148.0
+468,Dinamarca,-,Morten Hjulmand,Pivote,23,US Lecce,8000000,7003976.0,8532696.0,1734968656.0
+469,Dinamarca,23,Pierre-Emile Höjbjerg,Mediocentro,27,Tottenham Hotspur,45000000,39397365.0,47996415.0,9759198690.0
+470,Dinamarca,-,Philip Billing,Mediocentro,26,AFC Bournemouth,18000000,15758946.0,19198566.0,3903679476.0
+471,Dinamarca,7,Mathias Jensen,Mediocentro,27,Brentford FC,14000000,12256958.0,14932218.0,3036195148.0
+472,Dinamarca,14,Mikkel Damsgaard,Extremo izquierdo,22,Brentford FC,15000000,13132455.0,15998805.0,3253066230.0
+473,Dinamarca,-,Mohamed Daramy,Extremo izquierdo,21,FC Copenhague,6000000,5252982.0,6399522.0,1301226492.0
+474,Dinamarca,-,Anders Dreyer,Extremo derecho,24,RSC Anderlecht,9000000,7879473.0,9599283.0,1951839738.0
+475,Dinamarca,-,Rasmus Højlund,Delantero centro,20,Atalanta de Bérgamo,15000000,13132455.0,15998805.0,3253066230.0
+476,Dinamarca,19,Jonas Wind,Delantero centro,24,VfL Wolfsburgo,14000000,12256958.0,14932218.0,3036195148.0
+477,Dinamarca,9,Martin Braithwaite,Delantero centro,31,RCD Espanyol,5000000,4377485.0,5332935.0,1084355410.0
+478,Dinamarca,-,Marcus Ingvartsen,Delantero centro,27,1.FSV Mainz 05,3500000,3064239.5,3733054.5,759048787.0
+479,Ucrania,1,Anatoliy Trubin,Portero,21,Shakhtar Donetsk,11000000,9630467.0,11732457.0,2385581902.0
+480,Ucrania,12,Andriy Lunin,Portero,24,Real Madrid CF,4000000,3501988.0,4266348.0,867484328.0
+481,Ucrania,23,Mykyta Shevchenko,Portero,30,FK Oleksandriya,800000,700397.6,853269.6,173496865.6
+482,Ucrania,13,Ilya Zabarnyi,Defensa central,20,AFC Bournemouth,18000000,15758946.0,19198566.0,3903679476.0
+483,Ucrania,22,Mykola Matvienko,Defensa central,26,Shakhtar Donetsk,11000000,9630467.0,11732457.0,2385581902.0
+484,Ucrania,24,Denys Popov,Defensa central,24,FC Dinamo de Kiev,3000000,2626491.0,3199761.0,650613246.0
+485,Ucrania,4,Oleksandr Svatok,Defensa central,28,SK Dnipro-1,1000000,875497.0,1066587.0,216871082.0
+486,Ucrania,25,Eduard Sarapiy,Defensa central,23,SK Dnipro-1,1000000,875497.0,1066587.0,216871082.0
+487,Ucrania,17,Oleksandr Zinchenko,Lateral izquierdo,26,Arsenal FC,40000000,35019880.0,42663480.0,8674843280.0
+488,Ucrania,16,Vitaliy Mykolenko,Lateral izquierdo,23,Everton FC,22000000,19260934.0,23464914.0,4771163804.0
+489,Ucrania,3,Eduard Sobol,Lateral izquierdo,27,Racing Club de Estrasburgo,3000000,2626491.0,3199761.0,650613246.0
+490,Ucrania,2,Yukhym Konoplya,Lateral derecho,23,Shakhtar Donetsk,4000000,3501988.0,4266348.0,867484328.0
+491,Ucrania,6,Taras Stepanenko,Pivote,33,Shakhtar Donetsk,5000000,4377485.0,5332935.0,1084355410.0
+492,Ucrania,5,Sergiy Sydorchuk,Pivote,31,FC Dinamo de Kiev,4000000,3501988.0,4266348.0,867484328.0
+493,Ucrania,19,Oleksandr Pikhalyonok,Mediocentro,25,SK Dnipro-1,3000000,2626491.0,3199761.0,650613246.0
+494,Ucrania,21,Oleksandr Karavaev,Interior derecho,30,FC Dinamo de Kiev,3000000,2626491.0,3199761.0,650613246.0
+495,Ucrania,8,Ruslan Malinovskyi,Mediocentro ofensivo,29,Olympique de Marsella,18000000,15758946.0,19198566.0,3903679476.0
+496,Ucrania,14,Vitaliy Buyalskyi,Mediocentro ofensivo,30,FC Dinamo de Kiev,8000000,7003976.0,8532696.0,1734968656.0
+497,Ucrania,26,Georgiy Sudakov,Mediocentro ofensivo,20,Shakhtar Donetsk,6000000,5252982.0,6399522.0,1301226492.0
+498,Ucrania,27,Artem Bondarenko,Mediocentro ofensivo,22,Shakhtar Donetsk,4000000,3501988.0,4266348.0,867484328.0
+499,Ucrania,18,Yevgen Konoplyanka,Mediocentro ofensivo,33,Cracovia,700000,612847.9,746610.9,151809757.4
+500,Ucrania,10,Mykhaylo Mudryk,Extremo izquierdo,22,Chelsea FC,60000000,52529820.0,63995220.0,13012264920.0
+501,Ucrania,15,Viktor Tsygankov,Extremo derecho,25,Girona FC,22000000,19260934.0,23464914.0,4771163804.0
+502,Ucrania,7,Andriy Yarmolenko,Extremo derecho,33,Al-Ain FC,2500000,2188742.5,2666467.5,542177705.0
+503,Ucrania,20,Oleksandr Zubkov,Extremo derecho,26,Shakhtar Donetsk,2500000,2188742.5,2666467.5,542177705.0
+504,Ucrania,9,Roman Yaremchuk,Delantero centro,27,Club Brujas KV,12000000,10505964.0,12799044.0,2602452984.0
+505,Ucrania,11,Artem Dovbyk,Delantero centro,25,SK Dnipro-1,10000000,8754970.0,10665870.0,2168710820.0
+506,Escocia,-,Angus Gunn,Portero,27,Norwich City,3000000,2626491.0,3199761.0,650613246.0
+507,Escocia,21,Liam Kelly,Portero,27,Motherwell FC,700000,612847.9,746610.9,151809757.4
+508,Escocia,21,Robby McCrorie,Portero,24,Rangers FC,400000,350198.8,426634.8,86748432.8
+509,Escocia,15,Scott McKenna,Defensa central,26,Nottingham Forest,10000000,8754970.0,10665870.0,2168710820.0
+510,Escocia,-,Liam Cooper,Defensa central,31,Leeds United,5000000,4377485.0,5332935.0,1084355410.0
+511,Escocia,13,Jack Hendry,Defensa central,27,Club Brujas KV,3800000,3326888.6,4053030.5999999996,824110111.6
+512,Escocia,5,Grant Hanley,Defensa central,31,Norwich City,2800000,2451391.6,2986443.6,607239029.6
+513,Escocia,-,Ryan Porteous,Defensa central,23,Watford FC,1000000,875497.0,1066587.0,216871082.0
+514,Escocia,3,Andrew Robertson,Lateral izquierdo,29,Liverpool FC,48000000,42023856.0,51196176.0,10409811936.0
+515,Escocia,-,Kieran Tierney,Lateral izquierdo,25,Arsenal FC,25000000,21887425.0,26664675.0,5421777050.0
+516,Escocia,-,Aaron Hickey,Lateral izquierdo,20,Brentford FC,18000000,15758946.0,19198566.0,3903679476.0
+517,Escocia,2,Nathan Patterson,Lateral derecho,21,Everton FC,14000000,12256958.0,14932218.0,3036195148.0
+518,Escocia,-,Calvin Ramsay,Lateral derecho,19,Liverpool FC,5000000,4377485.0,5332935.0,1084355410.0
+519,Escocia,4,Scott McTominay,Pivote,26,Manchester United,25000000,21887425.0,26664675.0,5421777050.0
+520,Escocia,7,John McGinn,Mediocentro,28,Aston Villa,27000000,23638419.0,28797849.0,5855519214.0
+521,Escocia,14,Billy Gilmour,Mediocentro,21,Brighton & Hove Albion,9000000,7879473.0,9599283.0,1951839738.0
+522,Escocia,-,Callum McGregor,Mediocentro,29,Celtic FC,8000000,7003976.0,8532696.0,1734968656.0
+523,Escocia,17,Stuart Armstrong,Mediocentro,30,Southampton FC,6000000,5252982.0,6399522.0,1301226492.0
+524,Escocia,-,Ryan Jack,Mediocentro,31,Rangers FC,4000000,3501988.0,4266348.0,867484328.0
+525,Escocia,-,Lewis Ferguson,Mediocentro,23,Bolonia,4000000,3501988.0,4266348.0,867484328.0
+526,Escocia,-,Kenny McLean,Mediocentro,31,Norwich City,2000000,1750994.0,2133174.0,433742164.0
+527,Escocia,11,Ryan Christie,Mediocentro ofensivo,28,AFC Bournemouth,9000000,7879473.0,9599283.0,1951839738.0
+528,Escocia,-,Ryan Fraser,Extremo izquierdo,29,Newcastle United,8000000,7003976.0,8532696.0,1734968656.0
+529,Escocia,10,Ché Adams,Delantero centro,26,Southampton FC,22000000,19260934.0,23464914.0,4771163804.0
+530,Escocia,19,Jacob Brown,Delantero centro,24,Stoke City,5000000,4377485.0,5332935.0,1084355410.0
+531,Escocia,-,Lyndon Dykes,Delantero centro,27,Queens Park Rangers,4000000,3501988.0,4266348.0,867484328.0
+532,Austria,13,Niklas Hedl,Portero,22,SK Rapid Viena,1500000,1313245.5,1599880.5,325306623.0
+533,Austria,12,Alexander Schlager,Portero,27,LASK,1000000,875497.0,1066587.0,216871082.0
+534,Austria,1,Heinz Lindner,Portero,32,FC Sion,800000,700397.6,853269.6,173496865.6
+535,Austria,8,David Alaba,Defensa central,30,Real Madrid CF,55000000,48152335.0,58662285.0,11927909510.0
+536,Austria,15,Philipp Lienhart,Defensa central,26,SC Friburgo,20000000,17509940.0,21331740.0,4337421640.0
+537,Austria,3,Kevin Danso,Defensa central,24,RC Lens,14000000,12256958.0,14932218.0,3036195148.0
+538,Austria,2,Maximilian Wöber,Defensa central,25,Leeds United,12000000,10505964.0,12799044.0,2602452984.0
+539,Austria,5,Stefan Posch,Defensa central,25,Bolonia,7000000,6128479.0,7466109.0,1518097574.0
+540,Austria,23,Gernot Trauner,Defensa central,30,Feyenoord Rotterdam,5000000,4377485.0,5332935.0,1084355410.0
+541,Austria,-,Jonas Auer,Lateral izquierdo,22,SK Rapid Viena,700000,612847.9,746610.9,151809757.4
+542,Austria,16,Phillipp Mwene,Lateral derecho,29,PSV Eindhoven,3000000,2626491.0,3199761.0,650613246.0
+543,Austria,-,Dejan Ljubicic,Pivote,25,FC Colonia,10000000,8754970.0,10665870.0,2168710820.0
+544,Austria,-,Konrad Laimer,Mediocentro,25,RB Leipzig,28000000,24513916.0,29864436.0,6072390296.0
+545,Austria,6,Nicolas Seiwald,Mediocentro,21,Red Bull Salzburgo,20000000,17509940.0,21331740.0,4337421640.0
+546,Austria,9,Marcel Sabitzer,Mediocentro,29,Manchester United,20000000,17509940.0,21331740.0,4337421640.0
+547,Austria,24,Alexander Prass,Interior izquierdo,21,SK Sturm Graz,4000000,3501988.0,4266348.0,867484328.0
+548,Austria,19,Christoph Baumgartner,Mediocentro ofensivo,23,TSG 1899 Hoffenheim,20000000,17509940.0,21331740.0,4337421640.0
+549,Austria,14,Andreas Weimann,Mediocentro ofensivo,31,Bristol City,1800000,1575894.5999999999,1919856.5999999999,390367947.6
+550,Austria,17,Florian Kainz,Extremo izquierdo,30,FC Colonia,4000000,3501988.0,4266348.0,867484328.0
+551,Austria,-,Mathias Honsak,Extremo izquierdo,26,SV Darmstadt 98,700000,612847.9,746610.9,151809757.4
+552,Austria,-,Patrick Wimmer,Extremo derecho,21,VfL Wolfsburgo,8000000,7003976.0,8532696.0,1734968656.0
+553,Austria,7,Marko Arnautovic,Delantero centro,33,Bolonia,9000000,7879473.0,9599283.0,1951839738.0
+554,Austria,11,Michael Gregoritsch,Delantero centro,28,SC Friburgo,8000000,7003976.0,8532696.0,1734968656.0
+555,Austria,22,Junior Adamu,Delantero centro,21,Red Bull Salzburgo,8000000,7003976.0,8532696.0,1734968656.0
+556,Austria,-,Karim Onisiwo,Delantero centro,31,1.FSV Mainz 05,3500000,3064239.5,3733054.5,759048787.0
+557,Suiza,-,Gregor Kobel,Portero,25,Borussia Dortmund,25000000,21887425.0,26664675.0,5421777050.0
+558,Suiza,-,Jonas Omlin,Portero,29,Borussia Mönchengladbach,7000000,6128479.0,7466109.0,1518097574.0
+559,Suiza,-,Yann Sommer,Portero,34,Bayern Múnich,5000000,4377485.0,5332935.0,1084355410.0
+560,Suiza,-,Manuel Akanji,Defensa central,27,Manchester City,30000000,26264910.0,31997610.0,6506132460.0
+561,Suiza,-,Nico Elvedi,Defensa central,26,Borussia Mönchengladbach,20000000,17509940.0,21331740.0,4337421640.0
+562,Suiza,-,Eray Cömert,Defensa central,25,Valencia CF,4000000,3501988.0,4266348.0,867484328.0
+563,Suiza,-,Ricardo Rodríguez,Defensa central,30,Torino FC,3500000,3064239.5,3733054.5,759048787.0
+564,Suiza,-,Cédric Zesiger,Defensa central,24,BSC Young Boys,3000000,2626491.0,3199761.0,650613246.0
+565,Suiza,-,Jordan Lotomba,Lateral derecho,24,OGC Niza,6000000,5252982.0,6399522.0,1301226492.0
+566,Suiza,-,Silvan Widmer,Lateral derecho,30,1.FSV Mainz 05,5000000,4377485.0,5332935.0,1084355410.0
+567,Suiza,-,Denis Zakaria,Pivote,26,Chelsea FC,20000000,17509940.0,21331740.0,4337421640.0
+568,Suiza,-,Granit Xhaka,Mediocentro,30,Arsenal FC,28000000,24513916.0,29864436.0,6072390296.0
+569,Suiza,-,Djibril Sow,Mediocentro,26,Eintracht Fráncfort​​,22000000,19260934.0,23464914.0,4771163804.0
+570,Suiza,-,Remo Freuler,Mediocentro,30,Nottingham Forest,10000000,8754970.0,10665870.0,2168710820.0
+571,Suiza,-,Edimilson Fernandes,Mediocentro,26,1.FSV Mainz 05,3000000,2626491.0,3199761.0,650613246.0
+572,Suiza,-,Dominik Schmid,Interior izquierdo,25,Grasshopper Club Zurich,1200000,1050596.4,1279904.4,260245298.4
+573,Suiza,-,Fabian Rieder,Mediocentro ofensivo,21,BSC Young Boys,10000000,8754970.0,10665870.0,2168710820.0
+574,Suiza,-,Zeki Amdouni,Mediocentro ofensivo,22,FC Basilea,2500000,2188742.5,2666467.5,542177705.0
+575,Suiza,-,Rubén Vargas,Extremo izquierdo,24,FC Augsburgo,6000000,5252982.0,6399522.0,1301226492.0
+576,Suiza,-,Xherdan Shaqiri,Extremo derecho,31,Chicago Fire FC,4000000,3501988.0,4266348.0,867484328.0
+577,Suiza,-,Renato Steffen,Extremo derecho,31,FC Lugano,1000000,875497.0,1066587.0,216871082.0
+578,Suiza,-,Noah Okafor,Delantero centro,22,Red Bull Salzburgo,25000000,21887425.0,26664675.0,5421777050.0
+579,Suiza,-,Breel Embolo,Delantero centro,26,AS Mónaco,20000000,17509940.0,21331740.0,4337421640.0
+580,Suiza,-,Andi Zeqiri,Delantero centro,23,FC Basilea,2300000,2013643.0999999999,2453150.1,498803488.6
+581,Polonia,1,Wojciech Szczesny,Portero,32,Juventus de Turín,13000000,11381461.0,13865631.0,2819324066.0
+582,Polonia,-,Bartlomiej Dragowski,Portero,25,Spezia,4500000,3939736.5,4799641.5,975919869.0
+583,Polonia,-,Lukasz Skorupski,Portero,31,Bolonia,3000000,2626491.0,3199761.0,650613246.0
+584,Polonia,-,Jakub Kiwior,Defensa central,23,Arsenal FC,20000000,17509940.0,21331740.0,4337421640.0
+585,Polonia,-,Jan Bednarek,Defensa central,26,Southampton FC,14000000,12256958.0,14932218.0,3036195148.0
+586,Polonia,-,Kamil Piatkowski,Defensa central,22,KAA Gante,5000000,4377485.0,5332935.0,1084355410.0
+587,Polonia,-,Pawel Dawidowicz,Defensa central,27,Hellas Verona,3500000,3064239.5,3733054.5,759048787.0
+588,Polonia,-,Michal Karbownik,Lateral izquierdo,22,Fortuna Düsseldorf,2500000,2188742.5,2666467.5,542177705.0
+589,Polonia,-,Matty Cash,Lateral derecho,25,Aston Villa,22000000,19260934.0,23464914.0,4771163804.0
+590,Polonia,-,Robert Gumny,Lateral derecho,24,FC Augsburgo,3500000,3064239.5,3733054.5,759048787.0
+591,Polonia,-,Bartosz Bereszynski,Lateral derecho,30,SSC Nápoles,3000000,2626491.0,3199761.0,650613246.0
+592,Polonia,-,Krystian Bielik,Pivote,25,Birmingham City,3000000,2626491.0,3199761.0,650613246.0
+593,Polonia,-,Damian Szymanski,Pivote,27,AEK Atenas FC,2000000,1750994.0,2133174.0,433742164.0
+594,Polonia,-,Ben Lederman,Pivote,22,Rakow Czestochowa,1000000,875497.0,1066587.0,216871082.0
+595,Polonia,-,Piotr Zielinski,Mediocentro,28,SSC Nápoles,40000000,35019880.0,42663480.0,8674843280.0
+596,Polonia,-,Kacper Kozlowski,Mediocentro,19,Vitesse Arnhem,8000000,7003976.0,8532696.0,1734968656.0
+597,Polonia,-,Karol Linetty,Mediocentro,28,Torino FC,3500000,3064239.5,3733054.5,759048787.0
+598,Polonia,-,Przemyslaw Frankowski,Interior derecho,27,RC Lens,7000000,6128479.0,7466109.0,1518097574.0
+599,Polonia,-,Nicola Zalewski,Interior izquierdo,21,AS Roma,15000000,13132455.0,15998805.0,3253066230.0
+600,Polonia,-,Sebastian Szymanski,Mediocentro ofensivo,23,Feyenoord Rotterdam,14000000,12256958.0,14932218.0,3036195148.0
+601,Polonia,-,Jakub Kaminski,Extremo izquierdo,20,VfL Wolfsburgo,10000000,8754970.0,10665870.0,2168710820.0
+602,Polonia,-,Michal Skoras,Extremo izquierdo,23,Lech Poznan,3500000,3064239.5,3733054.5,759048787.0
+603,Polonia,9,Robert Lewandowski,Delantero centro,34,FC Barcelona,45000000,39397365.0,47996415.0,9759198690.0
+604,Polonia,-,Krzysztof Piatek,Delantero centro,27,US Salernitana 1919,11000000,9630467.0,11732457.0,2385581902.0
+605,Polonia,-,Karol Swiderski,Delantero centro,26,Charlotte FC,5000000,4377485.0,5332935.0,1084355410.0
+606,Costa de Marfil,-,Badra Ali Sangaré,Portero,36,Sekhukhune United FC,125000,109437.125,133323.375,27108885.25
+607,Costa de Marfil,-,Ira Tapé,Portero,25,Bahir Dar Kenema FC,100000,87549.7,106658.7,21687108.2
+609,Costa de Marfil,-,Odilon Kossounou,Defensa central,22,Bayer 04 Leverkusen,20000000,17509940.0,21331740.0,4337421640.0
+610,Costa de Marfil,-,Abakar Sylla,Defensa central,20,Club Brujas KV,9000000,7879473.0,9599283.0,1951839738.0
+611,Costa de Marfil,-,Eric Bailly,Defensa central,28,Olympique de Marsella,8000000,7003976.0,8532696.0,1734968656.0
+612,Costa de Marfil,-,Ghislain Konan,Lateral izquierdo,27,Al-Nassr FC,8000000,7003976.0,8532696.0,1734968656.0
+613,Costa de Marfil,-,Souleyman Doumbia,Lateral izquierdo,26,Angers SCO,3000000,2626491.0,3199761.0,650613246.0
+614,Costa de Marfil,-,Stephane Singo,Lateral derecho,22,Torino FC,14000000,12256958.0,14932218.0,3036195148.0
+615,Costa de Marfil,-,Serge Aurier,Lateral derecho,30,Nottingham Forest,6000000,5252982.0,6399522.0,1301226492.0
+616,Costa de Marfil,-,Ibrahim Sangaré,Pivote,25,PSV Eindhoven,35000000,30642395.0,37330545.0,7590487870.0
+617,Costa de Marfil,-,Jean-Philippe Gbamin,Pivote,27,Trabzonspor,6500000,5690730.5,6932815.5,1409662033.0
+618,Costa de Marfil,-,Jean-Eudes Aholou,Pivote,28,Racing Club de Estrasburgo,3000000,2626491.0,3199761.0,650613246.0
+619,Costa de Marfil,-,Franck Kessié,Mediocentro,26,FC Barcelona,35000000,30642395.0,37330545.0,7590487870.0
+620,Costa de Marfil,-,Jean Michaël Seri,Mediocentro,31,Hull City,2000000,1750994.0,2133174.0,433742164.0
+621,Costa de Marfil,-,Hamed Junior Traorè,Mediocentro ofensivo,23,AFC Bournemouth,22000000,19260934.0,23464914.0,4771163804.0
+622,Costa de Marfil,-,Jonathan Bamba,Extremo izquierdo,26,LOSC Lille Métropole,20000000,17509940.0,21331740.0,4337421640.0
+623,Costa de Marfil,-,Simon Adingra,Extremo izquierdo,21,Royale Union Saint Gilloise,6000000,5252982.0,6399522.0,1301226492.0
+624,Costa de Marfil,-,Max Gradel,Extremo izquierdo,35,Sivasspor,1800000,1575894.5999999999,1919856.5999999999,390367947.6
+625,Costa de Marfil,-,Amad Diallo,Extremo derecho,20,Sunderland AFC,7000000,6128479.0,7466109.0,1518097574.0
+626,Costa de Marfil,-,Sébastien Haller,Delantero centro,28,Borussia Dortmund,35000000,30642395.0,37330545.0,7590487870.0
+627,Costa de Marfil,-,Christian Kouamé,Delantero centro,25,Fiorentina,13000000,11381461.0,13865631.0,2819324066.0
+628,Costa de Marfil,-,Jean-Philippe Krasso,Delantero centro,25,AS Saint-Étienne,2500000,2188742.5,2666467.5,542177705.0
+629,Estados Unidos,-,Matt Turner,Portero,28,Arsenal FC,5000000,4377485.0,5332935.0,1084355410.0
+630,Estados Unidos,-,Zack Steffen,Portero,27,Middlesbrough FC,4500000,3939736.5,4799641.5,975919869.0
+631,Estados Unidos,-,Ethan Horvath,Portero,27,Luton Town,1000000,875497.0,1066587.0,216871082.0
+632,Estados Unidos,-,Mark McKenzie,Defensa central,24,KRC Genk,5000000,4377485.0,5332935.0,1084355410.0
+633,Estados Unidos,-,Miles Robinson,Defensa central,26,Atlanta United FC,5000000,4377485.0,5332935.0,1084355410.0
+634,Estados Unidos,-,Auston Trusty,Defensa central,24,Birmingham City,3000000,2626491.0,3199761.0,650613246.0
+635,Estados Unidos,-,Tim Ream,Defensa central,35,Fulham FC,1000000,875497.0,1066587.0,216871082.0
+636,Estados Unidos,-,Antonee Robinson,Lateral izquierdo,25,Fulham FC,12000000,10505964.0,12799044.0,2602452984.0
+637,Estados Unidos,-,Sergiño Dest,Lateral derecho,22,AC Milan,16000000,14007952.0,17065392.0,3469937312.0
+638,Estados Unidos,-,Joe Scally,Lateral derecho,20,Borussia Mönchengladbach,12000000,10505964.0,12799044.0,2602452984.0
+639,Estados Unidos,-,Bryan Reynolds,Lateral derecho,21,KVC Westerlo,2500000,2188742.5,2666467.5,542177705.0
+640,Estados Unidos,-,Johnny,Pivote,21,Sport Club Internacional,2500000,2188742.5,2666467.5,542177705.0
+641,Estados Unidos,-,Yunus Musah,Mediocentro,20,Valencia CF,25000000,21887425.0,26664675.0,5421777050.0
+642,Estados Unidos,-,Weston McKennie,Mediocentro,24,Leeds United,21000000,18385437.0,22398327.0,4554292722.0
+643,Estados Unidos,-,Taylor Booth,Mediocentro,21,FC Utrecht,6000000,5252982.0,6399522.0,1301226492.0
+644,Estados Unidos,14,Alan Soñora,Mediocentro,24,FC Juárez,2800000,2451391.6,2986443.6,607239029.6
+645,Estados Unidos,-,Luca de la Torre,Mediocentro,24,RC Celta de Vigo,2000000,1750994.0,2133174.0,433742164.0
+646,Estados Unidos,-,Giovanni Reyna,Mediocentro ofensivo,20,Borussia Dortmund,35000000,30642395.0,37330545.0,7590487870.0
+647,Estados Unidos,-,Brenden Aaronson,Mediocentro ofensivo,22,Leeds United,30000000,26264910.0,31997610.0,6506132460.0
+648,Estados Unidos,-,Christian Pulisic,Extremo derecho,24,Chelsea FC,32000000,28015904.0,34130784.0,6939874624.0
+649,Estados Unidos,-,Timothy Weah,Extremo derecho,23,LOSC Lille Métropole,12000000,10505964.0,12799044.0,2602452984.0
+650,Estados Unidos,17,Álex Zendejas,Extremo derecho,25,CF América,5000000,4377485.0,5332935.0,1084355410.0
+651,Estados Unidos,-,Ricardo Pepi,Delantero centro,20,FC Groningen,9000000,7879473.0,9599283.0,1951839738.0
+652,Estados Unidos,-,Daryl Dike,Delantero centro,22,West Bromwich Albion,7000000,6128479.0,7466109.0,1518097574.0
